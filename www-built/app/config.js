@@ -1,0 +1,1 @@
+define([],function(){return{imageDir:"../../media/images/"}});

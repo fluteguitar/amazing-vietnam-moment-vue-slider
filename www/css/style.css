@@ -1,0 +1,38 @@
+.VueCarousel-slide {
+
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+    background-image: url(https://st-int.vnecdn.net/3664509/data/images/2017/11/02/22858088-1873200683008263-455649726063181824-n_1509592894_VnEx.jpg);
+    height: 100%;    
+}
+
+.VueCarousel-inner {
+    flex-basis: 900px;
+}
+
+.label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+
+
+img {
+    /* z-index: 9999;  */
+    width: 100%; 
+    height: 100%; 
+    /* position: fixed;  */
+    top: 0;  
+    left: 0;
+}
+
+.img1 {
+    
+}
